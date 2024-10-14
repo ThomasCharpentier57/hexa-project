@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test d'une partie:" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-14T09:20:50" hostname="THOMAS" time="0.026">
+<testsuite name="Test d'une partie:" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-14T13:47:29" hostname="THOMAS" time="0.037">
   <properties/>
-  <testcase name="enregistre la partie quand elle est victorieuse" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.006"/>
-  <testcase name="termine la partie quand le nombre d'essais est dépassé" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.004"/>
-  <testcase name="lève une erreur quand la partie est terminée" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.004"/>
-  <testcase name="met à jour le nombre d'essais" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.004"/>
-  <testcase name="retourne le résultat du mot proposé" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.005"/>
+  <testcase name="enregistre la partie quand elle est victorieuse" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.007"/>
+  <testcase name="termine la partie quand le nombre d'essais est dépassé" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.006"/>
+  <testcase name="lève une erreur quand la partie est terminée" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.005"/>
+  <testcase name="met à jour le nombre d'essais" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.008"/>
+  <testcase name="retourne le résultat du mot proposé" classname="org.iut.mastermind.domain.partie.TestPartie" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

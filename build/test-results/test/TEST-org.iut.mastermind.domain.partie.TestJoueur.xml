@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test joueur pour:" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-14T09:20:49" hostname="THOMAS" time="0.058">
+<testsuite name="Test joueur pour:" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-14T13:47:27" hostname="THOMAS" time="0.079">
   <properties/>
-  <testcase name="des joueurs de noms différents" classname="org.iut.mastermind.domain.partie.TestJoueur" time="0.052"/>
+  <testcase name="des joueurs de noms différents" classname="org.iut.mastermind.domain.partie.TestJoueur" time="0.069"/>
   <testcase name="des joueurs de noms identiques" classname="org.iut.mastermind.domain.partie.TestJoueur" time="0.001"/>
-  <testcase name="des joueurs avec un hashcode égal" classname="org.iut.mastermind.domain.partie.TestJoueur" time="0.003"/>
+  <testcase name="des joueurs avec un hashcode égal" classname="org.iut.mastermind.domain.partie.TestJoueur" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
