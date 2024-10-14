@@ -54,7 +54,6 @@ public class Partie {
             done();
             return r;
         }
-
         return r;
     }
 
